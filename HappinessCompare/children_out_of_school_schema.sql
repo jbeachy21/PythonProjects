@@ -1,0 +1,8 @@
+CREATE TABLE children_out_of_school(
+	Country VARCHAR(60),
+	2015 DOUBLE,
+	2016 DOUBLE,
+	2017 DOUBLE,
+	2018 DOUBLE,
+	2019 DOUBLE
+)
